@@ -45,6 +45,11 @@ img {
   bottom: -20px;
   right: 100px;
   font-size: 16px;
+  transition: all linear 0.1s;
+}
+
+.button:hover {
+  background-color: #3a5037;
 }
 label {
   display: block;
