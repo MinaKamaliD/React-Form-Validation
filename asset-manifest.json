@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Form-Validation/static/css/main.f01eaa01.css",
-    "main.js": "/React-Form-Validation/static/js/main.4fded7a0.js",
+    "main.css": "/React-Form-Validation/static/css/main.7c902911.css",
+    "main.js": "/React-Form-Validation/static/js/main.d3dcf2fe.js",
     "static/js/787.f8011b4b.chunk.js": "/React-Form-Validation/static/js/787.f8011b4b.chunk.js",
     "index.html": "/React-Form-Validation/index.html",
-    "main.f01eaa01.css.map": "/React-Form-Validation/static/css/main.f01eaa01.css.map",
-    "main.4fded7a0.js.map": "/React-Form-Validation/static/js/main.4fded7a0.js.map",
+    "main.7c902911.css.map": "/React-Form-Validation/static/css/main.7c902911.css.map",
+    "main.d3dcf2fe.js.map": "/React-Form-Validation/static/js/main.d3dcf2fe.js.map",
     "787.f8011b4b.chunk.js.map": "/React-Form-Validation/static/js/787.f8011b4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f01eaa01.css",
-    "static/js/main.4fded7a0.js"
+    "static/css/main.7c902911.css",
+    "static/js/main.d3dcf2fe.js"
   ]
 }
